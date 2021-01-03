@@ -13,4 +13,6 @@
 #     name: python3
 # ---
 
-"Hello World"
+"Hello AI World"
+
+"I am starting a new phase now. I will be the leader from here"
