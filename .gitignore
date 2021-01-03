@@ -1,2 +1,3 @@
 *.txt
 /unknown-folder/*
+/.ipynb_checkpoints/*
